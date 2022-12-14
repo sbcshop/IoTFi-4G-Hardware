@@ -23,7 +23,7 @@ IoT-Fi is a compact low power IoT enabled device having the capability of GSM mo
 
 * [IoTFi-2G](https://shop.sb-components.co.uk/products/iotfi-2g-4g-iot-board-based-on-rp2040?variant=40430002307155) - Our other GSM Based product in 4G version
 
- ![IoTFi-2G](https://cdn.shopify.com/s/files/1/1217/2104/products/Untitled-2.png?v=1669123121&width=300)
+ ![IoTFi-2G](https://cdn.shopify.com/s/files/1/1217/2104/products/03_3.png?v=1669123121&width=400)
 
 
 ## Product License
