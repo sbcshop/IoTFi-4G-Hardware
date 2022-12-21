@@ -31,7 +31,7 @@ IoT-Fi is a compact low power IoT enabled device having the capability of GSM mo
 
 ## Product License
 
-This is ***open source*** product. Kindly check LICENSE.md file for more informnation.
+This is ***open source*** product. Kindly check LICENSE.md file for more information.
 
 Please contact support@sb-components.co.uk for technical support.
 <p align="center">
